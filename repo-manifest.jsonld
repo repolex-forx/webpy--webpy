@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/webpy/webpy/commit/470d1f512f02c9f6728271e7693eedfa4ee61def",
       "git:hexsha": "470d1f512f02c9f6728271e7693eedfa4ee61def",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T09:35:18.788138+00:00"
     },
     {
       "@id": "https://repolex.ai/r/webpy/webpy/commit/4c1d7ca82e6667754fe4931166bc73a55bef0709",
